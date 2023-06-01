@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hello world on Yaksh Bariya</title>
+    <link>https://codingthunder.me/tags/hello-world/</link>
+    <description>Recent content in hello world on Yaksh Bariya</description>
+    <image>
+      <url>https://codingthunder.me/ogimage.jpg</url>
+      <link>https://codingthunder.me/ogimage.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0530</lastBuildDate><atom:link href="https://codingthunder.me/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World: Welcome to my blog</title>
+      <link>https://codingthunder.me/posts/hello-world/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0530</pubDate>
+      
+      <guid>https://codingthunder.me/posts/hello-world/</guid>
+      <description>Read how I built my blog site</description>
+    </item>
+    
+  </channel>
+</rss>
