@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>terminal on Yaksh Bariya</title>
-    <link>https://codingthunder.me/tags/terminal/</link>
+    <link>https://thunder-coding.github.io/tags/terminal/</link>
     <description>Recent content in terminal on Yaksh Bariya</description>
     <image>
-      <url>https://codingthunder.me/ogimage.jpg</url>
-      <link>https://codingthunder.me/ogimage.jpg</link>
+      <url>https://thunder-coding.github.io/ogimage.jpg</url>
+      <link>https://thunder-coding.github.io/ogimage.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Sep 2022 12:30:00 +0530</lastBuildDate><atom:link href="https://codingthunder.me/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Sep 2022 12:30:00 +0530</lastBuildDate><atom:link href="https://thunder-coding.github.io/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Streaming FreeCodeCamp&#39;s Coderadio using mpv</title>
-      <link>https://codingthunder.me/posts/streaming-freecodecamps-coderadio-using-mpv/</link>
+      <link>https://thunder-coding.github.io/posts/streaming-freecodecamps-coderadio-using-mpv/</link>
       <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
       
-      <guid>https://codingthunder.me/posts/streaming-freecodecamps-coderadio-using-mpv/</guid>
+      <guid>https://thunder-coding.github.io/posts/streaming-freecodecamps-coderadio-using-mpv/</guid>
       <description>Read how I managed to stream FreeCodeCamp&amp;#39;s Coderadio using mpv on the terminal</description>
     </item>
     
