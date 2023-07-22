@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thunder-coding.github.io/sitemap.xml

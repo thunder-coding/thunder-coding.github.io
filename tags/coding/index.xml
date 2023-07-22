@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>coding on Yaksh Bariya</title>
+    <link>https://thunder-coding.github.io/tags/coding/</link>
+    <description>Recent content in coding on Yaksh Bariya</description>
+    <image>
+      <url>https://thunder-coding.github.io/ogimage.jpg</url>
+      <link>https://thunder-coding.github.io/ogimage.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Sep 2022 12:30:00 +0530</lastBuildDate><atom:link href="https://thunder-coding.github.io/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Streaming FreeCodeCamp&#39;s Coderadio using mpv</title>
+      <link>https://thunder-coding.github.io/posts/streaming-freecodecamps-coderadio-using-mpv/</link>
+      <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
+      
+      <guid>https://thunder-coding.github.io/posts/streaming-freecodecamps-coderadio-using-mpv/</guid>
+      <description>Read how I managed to stream FreeCodeCamp&amp;#39;s Coderadio using mpv on the terminal</description>
+    </item>
+    
+  </channel>
+</rss>

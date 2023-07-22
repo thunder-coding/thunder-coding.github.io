@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>developer blog on Yaksh Bariya</title>
+    <link>https://thunder-coding.github.io/tags/developer-blog/</link>
+    <description>Recent content in developer blog on Yaksh Bariya</description>
+    <image>
+      <url>https://thunder-coding.github.io/ogimage.jpg</url>
+      <link>https://thunder-coding.github.io/ogimage.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0530</lastBuildDate><atom:link href="https://thunder-coding.github.io/tags/developer-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World: Welcome to my blog</title>
+      <link>https://thunder-coding.github.io/posts/hello-world/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0530</pubDate>
+      
+      <guid>https://thunder-coding.github.io/posts/hello-world/</guid>
+      <description>Read how I built my blog site</description>
+    </item>
+    
+  </channel>
+</rss>

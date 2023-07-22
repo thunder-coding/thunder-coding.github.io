@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Yaksh Bariya</title>
+    <link>https://thunder-coding.github.io/posts/</link>
+    <description>Recent content in Posts on Yaksh Bariya</description>
+    <image>
+      <url>https://thunder-coding.github.io/ogimage.jpg</url>
+      <link>https://thunder-coding.github.io/ogimage.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Sep 2022 12:30:00 +0530</lastBuildDate><atom:link href="https://thunder-coding.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Streaming FreeCodeCamp&#39;s Coderadio using mpv</title>
+      <link>https://thunder-coding.github.io/posts/streaming-freecodecamps-coderadio-using-mpv/</link>
+      <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
+      
+      <guid>https://thunder-coding.github.io/posts/streaming-freecodecamps-coderadio-using-mpv/</guid>
+      <description>Read how I managed to stream FreeCodeCamp&amp;#39;s Coderadio using mpv on the terminal</description>
+    </item>
+    
+    <item>
+      <title>Announcing Open Sourcing of my blog site</title>
+      <link>https://thunder-coding.github.io/posts/announcing-open-sourcing-of-my-blog/</link>
+      <pubDate>Thu, 19 May 2022 10:00:00 +0530</pubDate>
+      
+      <guid>https://thunder-coding.github.io/posts/announcing-open-sourcing-of-my-blog/</guid>
+      <description>Read how I just migrated my site from Next.js to Hugo &#43; PaperMod</description>
+    </item>
+    
+    <item>
+      <title>Now you can sponsor me for my open source work using Bitcoin</title>
+      <link>https://thunder-coding.github.io/posts/now-you-can-sponsor-me-for-my-open-source-work-using-bitcoin/</link>
+      <pubDate>Fri, 08 Apr 2022 22:00:00 +0530</pubDate>
+      
+      <guid>https://thunder-coding.github.io/posts/now-you-can-sponsor-me-for-my-open-source-work-using-bitcoin/</guid>
+      <description>Sponsor an open source contributor and maintainer to encourage them!</description>
+    </item>
+    
+    <item>
+      <title>Hello World: Welcome to my blog</title>
+      <link>https://thunder-coding.github.io/posts/hello-world/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0530</pubDate>
+      
+      <guid>https://thunder-coding.github.io/posts/hello-world/</guid>
+      <description>Read how I built my blog site</description>
+    </item>
+    
+  </channel>
+</rss>
