@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hacker News on Yaksh Bariya</title>
+    <link>https://cd.is-a.dev/tags/hacker-news/</link>
+    <description>Recent content in Hacker News on Yaksh Bariya</description>
+    <image>
+      <title>Yaksh Bariya</title>
+      <url>https://cd.is-a.dev/ogimage.jpg</url>
+      <link>https://cd.is-a.dev/ogimage.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Mar 2024 20:15:00 +0530</lastBuildDate>
+    <atom:link href="https://cd.is-a.dev/tags/hacker-news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I decide if your website is worth a revisit</title>
+      <link>https://cd.is-a.dev/posts/how-i-decide-if-your-website-is-worth-a-revisit/</link>
+      <pubDate>Mon, 04 Mar 2024 20:15:00 +0530</pubDate>
+      <guid>https://cd.is-a.dev/posts/how-i-decide-if-your-website-is-worth-a-revisit/</guid>
+      <description>In this new world full of SEO and AI crap, it is becoming difficult to find good content, even for hardcore techies like us. Here&amp;#39;s how I do and and I hope it helps you too.</description>
+    </item>
+  </channel>
+</rss>

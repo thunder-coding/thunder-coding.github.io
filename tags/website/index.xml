@@ -1,25 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>website on Yaksh Bariya</title>
-    <link>https://thunder-coding.github.io/tags/website/</link>
-    <description>Recent content in website on Yaksh Bariya</description>
+    <title>Website on Yaksh Bariya</title>
+    <link>https://cd.is-a.dev/tags/website/</link>
+    <description>Recent content in Website on Yaksh Bariya</description>
     <image>
       <title>Yaksh Bariya</title>
-      <url>https://thunder-coding.github.io/ogimage.jpg</url>
-      <link>https://thunder-coding.github.io/ogimage.jpg</link>
+      <url>https://cd.is-a.dev/ogimage.jpg</url>
+      <link>https://cd.is-a.dev/ogimage.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 May 2022 10:00:00 +0530</lastBuildDate><atom:link href="https://thunder-coding.github.io/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Mar 2024 20:15:00 +0530</lastBuildDate>
+    <atom:link href="https://cd.is-a.dev/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I decide if your website is worth a revisit</title>
+      <link>https://cd.is-a.dev/posts/how-i-decide-if-your-website-is-worth-a-revisit/</link>
+      <pubDate>Mon, 04 Mar 2024 20:15:00 +0530</pubDate>
+      <guid>https://cd.is-a.dev/posts/how-i-decide-if-your-website-is-worth-a-revisit/</guid>
+      <description>In this new world full of SEO and AI crap, it is becoming difficult to find good content, even for hardcore techies like us. Here&amp;#39;s how I do and and I hope it helps you too.</description>
+    </item>
     <item>
       <title>Announcing Open Sourcing of my blog site</title>
-      <link>https://thunder-coding.github.io/posts/announcing-open-sourcing-of-my-blog/</link>
+      <link>https://cd.is-a.dev/posts/announcing-open-sourcing-of-my-blog/</link>
       <pubDate>Thu, 19 May 2022 10:00:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/posts/announcing-open-sourcing-of-my-blog/</guid>
+      <guid>https://cd.is-a.dev/posts/announcing-open-sourcing-of-my-blog/</guid>
       <description>Read how I just migrated my site from Next.js to Hugo &#43; PaperMod</description>
     </item>
-    
   </channel>
 </rss>

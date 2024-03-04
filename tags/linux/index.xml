@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>linux on Yaksh Bariya</title>
-    <link>https://thunder-coding.github.io/tags/linux/</link>
-    <description>Recent content in linux on Yaksh Bariya</description>
+    <title>Linux on Yaksh Bariya</title>
+    <link>https://cd.is-a.dev/tags/linux/</link>
+    <description>Recent content in Linux on Yaksh Bariya</description>
     <image>
       <title>Yaksh Bariya</title>
-      <url>https://thunder-coding.github.io/ogimage.jpg</url>
-      <link>https://thunder-coding.github.io/ogimage.jpg</link>
+      <url>https://cd.is-a.dev/ogimage.jpg</url>
+      <link>https://cd.is-a.dev/ogimage.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Sep 2022 12:30:00 +0530</lastBuildDate><atom:link href="https://thunder-coding.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Sep 2022 12:30:00 +0530</lastBuildDate>
+    <atom:link href="https://cd.is-a.dev/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Streaming FreeCodeCamp&#39;s Coderadio using mpv</title>
-      <link>https://thunder-coding.github.io/posts/streaming-freecodecamps-coderadio-using-mpv/</link>
+      <link>https://cd.is-a.dev/posts/streaming-freecodecamps-coderadio-using-mpv/</link>
       <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/posts/streaming-freecodecamps-coderadio-using-mpv/</guid>
+      <guid>https://cd.is-a.dev/posts/streaming-freecodecamps-coderadio-using-mpv/</guid>
       <description>Read how I managed to stream FreeCodeCamp&amp;#39;s Coderadio using mpv on the terminal</description>
     </item>
-    
   </channel>
 </rss>

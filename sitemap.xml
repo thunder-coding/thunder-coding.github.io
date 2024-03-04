@@ -2,85 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thunder-coding.github.io/tags/coderadio/</loc>
+    <loc>https://cd.is-a.dev/tags/blogging/</loc>
+    <lastmod>2024-03-04T20:15:00+05:30</lastmod>
+  </url><url>
+    <loc>https://cd.is-a.dev/tags/hacker-news/</loc>
+    <lastmod>2024-03-04T20:15:00+05:30</lastmod>
+  </url><url>
+    <loc>https://cd.is-a.dev/posts/how-i-decide-if-your-website-is-worth-a-revisit/</loc>
+    <lastmod>2024-03-04T20:15:00+05:30</lastmod>
+  </url><url>
+    <loc>https://cd.is-a.dev/posts/</loc>
+    <lastmod>2024-03-04T20:15:00+05:30</lastmod>
+  </url><url>
+    <loc>https://cd.is-a.dev/tags/seo/</loc>
+    <lastmod>2024-03-04T20:15:00+05:30</lastmod>
+  </url><url>
+    <loc>https://cd.is-a.dev/tags/</loc>
+    <lastmod>2024-03-04T20:15:00+05:30</lastmod>
+  </url><url>
+    <loc>https://cd.is-a.dev/tags/website/</loc>
+    <lastmod>2024-03-04T20:15:00+05:30</lastmod>
+  </url><url>
+    <loc>https://cd.is-a.dev/</loc>
+    <lastmod>2024-03-04T20:15:00+05:30</lastmod>
+  </url><url>
+    <loc>https://cd.is-a.dev/tags/coderadio/</loc>
     <lastmod>2022-09-19T12:30:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/tags/coding/</loc>
+    <loc>https://cd.is-a.dev/tags/coding/</loc>
     <lastmod>2022-09-19T12:30:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/tags/freecodecamp/</loc>
+    <loc>https://cd.is-a.dev/tags/freecodecamp/</loc>
     <lastmod>2022-09-19T12:30:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/tags/linux/</loc>
+    <loc>https://cd.is-a.dev/tags/linux/</loc>
     <lastmod>2022-09-19T12:30:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/tags/mpv/</loc>
+    <loc>https://cd.is-a.dev/tags/mpv/</loc>
     <lastmod>2022-09-19T12:30:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/tags/music/</loc>
+    <loc>https://cd.is-a.dev/tags/music/</loc>
     <lastmod>2022-09-19T12:30:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/posts/</loc>
+    <loc>https://cd.is-a.dev/tags/programming/</loc>
     <lastmod>2022-09-19T12:30:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/tags/programming/</loc>
+    <loc>https://cd.is-a.dev/posts/streaming-freecodecamps-coderadio-using-mpv/</loc>
     <lastmod>2022-09-19T12:30:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/posts/streaming-freecodecamps-coderadio-using-mpv/</loc>
+    <loc>https://cd.is-a.dev/tags/terminal/</loc>
     <lastmod>2022-09-19T12:30:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/tags/</loc>
-    <lastmod>2022-09-19T12:30:00+05:30</lastmod>
-  </url><url>
-    <loc>https://thunder-coding.github.io/tags/terminal/</loc>
-    <lastmod>2022-09-19T12:30:00+05:30</lastmod>
-  </url><url>
-    <loc>https://thunder-coding.github.io/</loc>
-    <lastmod>2022-09-19T12:30:00+05:30</lastmod>
-  </url><url>
-    <loc>https://thunder-coding.github.io/posts/announcing-open-sourcing-of-my-blog/</loc>
+    <loc>https://cd.is-a.dev/posts/announcing-open-sourcing-of-my-blog/</loc>
     <lastmod>2022-05-19T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/tags/blogging/</loc>
+    <loc>https://cd.is-a.dev/tags/hugo/</loc>
     <lastmod>2022-05-19T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/tags/hugo/</loc>
+    <loc>https://cd.is-a.dev/tags/open-source/</loc>
     <lastmod>2022-05-19T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/tags/open-source/</loc>
-    <lastmod>2022-05-19T10:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://thunder-coding.github.io/tags/website/</loc>
-    <lastmod>2022-05-19T10:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://thunder-coding.github.io/tags/bitcoin/</loc>
+    <loc>https://cd.is-a.dev/tags/bitcoin/</loc>
     <lastmod>2022-05-16T16:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/tags/cryptocurrency/</loc>
+    <loc>https://cd.is-a.dev/tags/cryptocurrency/</loc>
     <lastmod>2022-05-16T16:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/posts/now-you-can-sponsor-me-for-my-open-source-work-using-bitcoin/</loc>
+    <loc>https://cd.is-a.dev/posts/now-you-can-sponsor-me-for-my-open-source-work-using-bitcoin/</loc>
     <lastmod>2022-05-16T16:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/tags/sponsor/</loc>
+    <loc>https://cd.is-a.dev/tags/sponsor/</loc>
     <lastmod>2022-05-16T16:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/tags/developer/</loc>
+    <loc>https://cd.is-a.dev/tags/developer/</loc>
     <lastmod>2022-05-16T16:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/tags/developer-blog/</loc>
+    <loc>https://cd.is-a.dev/tags/developer-blog/</loc>
     <lastmod>2022-05-16T16:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/tags/hello-world/</loc>
+    <loc>https://cd.is-a.dev/tags/hello-world/</loc>
     <lastmod>2022-05-16T16:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/posts/hello-world/</loc>
+    <loc>https://cd.is-a.dev/posts/hello-world/</loc>
     <lastmod>2022-05-16T16:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunder-coding.github.io/categories/</loc>
+    <loc>https://cd.is-a.dev/categories/</loc>
   </url><url>
-    <loc>https://thunder-coding.github.io/search/</loc>
+    <loc>https://cd.is-a.dev/search/</loc>
   </url><url>
-    <loc>https://thunder-coding.github.io/sponsor/</loc>
+    <loc>https://cd.is-a.dev/sponsor/</loc>
   </url>
 </urlset>

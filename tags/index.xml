@@ -2,177 +2,156 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Yaksh Bariya</title>
-    <link>https://thunder-coding.github.io/tags/</link>
+    <link>https://cd.is-a.dev/tags/</link>
     <description>Recent content in Tags on Yaksh Bariya</description>
     <image>
       <title>Yaksh Bariya</title>
-      <url>https://thunder-coding.github.io/ogimage.jpg</url>
-      <link>https://thunder-coding.github.io/ogimage.jpg</link>
+      <url>https://cd.is-a.dev/ogimage.jpg</url>
+      <link>https://cd.is-a.dev/ogimage.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Sep 2022 12:30:00 +0530</lastBuildDate><atom:link href="https://thunder-coding.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Mar 2024 20:15:00 +0530</lastBuildDate>
+    <atom:link href="https://cd.is-a.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>coderadio</title>
-      <link>https://thunder-coding.github.io/tags/coderadio/</link>
-      <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/tags/coderadio/</guid>
+      <title>Blogging</title>
+      <link>https://cd.is-a.dev/tags/blogging/</link>
+      <pubDate>Mon, 04 Mar 2024 20:15:00 +0530</pubDate>
+      <guid>https://cd.is-a.dev/tags/blogging/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>coding</title>
-      <link>https://thunder-coding.github.io/tags/coding/</link>
-      <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/tags/coding/</guid>
+      <title>Hacker News</title>
+      <link>https://cd.is-a.dev/tags/hacker-news/</link>
+      <pubDate>Mon, 04 Mar 2024 20:15:00 +0530</pubDate>
+      <guid>https://cd.is-a.dev/tags/hacker-news/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>freecodecamp</title>
-      <link>https://thunder-coding.github.io/tags/freecodecamp/</link>
-      <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/tags/freecodecamp/</guid>
+      <title>Seo</title>
+      <link>https://cd.is-a.dev/tags/seo/</link>
+      <pubDate>Mon, 04 Mar 2024 20:15:00 +0530</pubDate>
+      <guid>https://cd.is-a.dev/tags/seo/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>linux</title>
-      <link>https://thunder-coding.github.io/tags/linux/</link>
-      <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/tags/linux/</guid>
+      <title>Website</title>
+      <link>https://cd.is-a.dev/tags/website/</link>
+      <pubDate>Mon, 04 Mar 2024 20:15:00 +0530</pubDate>
+      <guid>https://cd.is-a.dev/tags/website/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mpv</title>
-      <link>https://thunder-coding.github.io/tags/mpv/</link>
+      <title>Coderadio</title>
+      <link>https://cd.is-a.dev/tags/coderadio/</link>
       <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/tags/mpv/</guid>
+      <guid>https://cd.is-a.dev/tags/coderadio/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>music</title>
-      <link>https://thunder-coding.github.io/tags/music/</link>
+      <title>Coding</title>
+      <link>https://cd.is-a.dev/tags/coding/</link>
       <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/tags/music/</guid>
+      <guid>https://cd.is-a.dev/tags/coding/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>programming</title>
-      <link>https://thunder-coding.github.io/tags/programming/</link>
+      <title>Freecodecamp</title>
+      <link>https://cd.is-a.dev/tags/freecodecamp/</link>
       <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/tags/programming/</guid>
+      <guid>https://cd.is-a.dev/tags/freecodecamp/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>terminal</title>
-      <link>https://thunder-coding.github.io/tags/terminal/</link>
+      <title>Linux</title>
+      <link>https://cd.is-a.dev/tags/linux/</link>
       <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/tags/terminal/</guid>
+      <guid>https://cd.is-a.dev/tags/linux/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>blogging</title>
-      <link>https://thunder-coding.github.io/tags/blogging/</link>
+      <title>Mpv</title>
+      <link>https://cd.is-a.dev/tags/mpv/</link>
+      <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
+      <guid>https://cd.is-a.dev/tags/mpv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>https://cd.is-a.dev/tags/music/</link>
+      <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
+      <guid>https://cd.is-a.dev/tags/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>https://cd.is-a.dev/tags/programming/</link>
+      <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
+      <guid>https://cd.is-a.dev/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terminal</title>
+      <link>https://cd.is-a.dev/tags/terminal/</link>
+      <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
+      <guid>https://cd.is-a.dev/tags/terminal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://cd.is-a.dev/tags/hugo/</link>
       <pubDate>Thu, 19 May 2022 10:00:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/tags/blogging/</guid>
+      <guid>https://cd.is-a.dev/tags/hugo/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hugo</title>
-      <link>https://thunder-coding.github.io/tags/hugo/</link>
+      <title>Open Source</title>
+      <link>https://cd.is-a.dev/tags/open-source/</link>
       <pubDate>Thu, 19 May 2022 10:00:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/tags/hugo/</guid>
+      <guid>https://cd.is-a.dev/tags/open-source/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>open source</title>
-      <link>https://thunder-coding.github.io/tags/open-source/</link>
-      <pubDate>Thu, 19 May 2022 10:00:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/tags/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>website</title>
-      <link>https://thunder-coding.github.io/tags/website/</link>
-      <pubDate>Thu, 19 May 2022 10:00:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/tags/website/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bitcoin</title>
-      <link>https://thunder-coding.github.io/tags/bitcoin/</link>
+      <title>Bitcoin</title>
+      <link>https://cd.is-a.dev/tags/bitcoin/</link>
       <pubDate>Fri, 08 Apr 2022 22:00:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/tags/bitcoin/</guid>
+      <guid>https://cd.is-a.dev/tags/bitcoin/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cryptocurrency</title>
-      <link>https://thunder-coding.github.io/tags/cryptocurrency/</link>
+      <title>Cryptocurrency</title>
+      <link>https://cd.is-a.dev/tags/cryptocurrency/</link>
       <pubDate>Fri, 08 Apr 2022 22:00:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/tags/cryptocurrency/</guid>
+      <guid>https://cd.is-a.dev/tags/cryptocurrency/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>sponsor</title>
-      <link>https://thunder-coding.github.io/tags/sponsor/</link>
+      <title>Sponsor</title>
+      <link>https://cd.is-a.dev/tags/sponsor/</link>
       <pubDate>Fri, 08 Apr 2022 22:00:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/tags/sponsor/</guid>
+      <guid>https://cd.is-a.dev/tags/sponsor/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>developer</title>
-      <link>https://thunder-coding.github.io/tags/developer/</link>
+      <title>Developer</title>
+      <link>https://cd.is-a.dev/tags/developer/</link>
       <pubDate>Mon, 04 Oct 2021 00:00:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/tags/developer/</guid>
+      <guid>https://cd.is-a.dev/tags/developer/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>developer blog</title>
-      <link>https://thunder-coding.github.io/tags/developer-blog/</link>
+      <title>Developer Blog</title>
+      <link>https://cd.is-a.dev/tags/developer-blog/</link>
       <pubDate>Mon, 04 Oct 2021 00:00:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/tags/developer-blog/</guid>
+      <guid>https://cd.is-a.dev/tags/developer-blog/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hello world</title>
-      <link>https://thunder-coding.github.io/tags/hello-world/</link>
+      <title>Hello World</title>
+      <link>https://cd.is-a.dev/tags/hello-world/</link>
       <pubDate>Mon, 04 Oct 2021 00:00:00 +0530</pubDate>
-      
-      <guid>https://thunder-coding.github.io/tags/hello-world/</guid>
+      <guid>https://cd.is-a.dev/tags/hello-world/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
