@@ -9,10 +9,17 @@
       <url>https://cd.is-a.dev/ogimage.jpg</url>
       <link>https://cd.is-a.dev/ogimage.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Mar 2024 20:15:00 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 23:35:00 +0530</lastBuildDate>
     <atom:link href="https://cd.is-a.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solution to HackSlash SigSTP: Trial of Cheaters Path problem</title>
+      <link>https://cd.is-a.dev/posts/hackslash-sigstp-solution-to-the-trial-of-cheaters-path/</link>
+      <pubDate>Tue, 18 Mar 2025 23:35:00 +0530</pubDate>
+      <guid>https://cd.is-a.dev/posts/hackslash-sigstp-solution-to-the-trial-of-cheaters-path/</guid>
+      <description>How I managed to solve all of the HackSlash&amp;#39; SigSTP Induction problems</description>
+    </item>
     <item>
       <title>How I decide if your website is worth a revisit</title>
       <link>https://cd.is-a.dev/posts/how-i-decide-if-your-website-is-worth-a-revisit/</link>
@@ -53,8 +60,14 @@
       <link>https://cd.is-a.dev/sponsor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cd.is-a.dev/sponsor/</guid>
-      <description>Open Source work by me Mostly I contribute to the Termux project both as a contributor and a maintainer reviewing PRs. For Termux, I maintain Node.js and also help in updating critical libraries to which a lot of packages make use of. Although lately, I expect myself to work less here and more on personal projects which I&amp;rsquo;m planning to bring up.
-Cryptocurrencies Note that these addresses aren&amp;rsquo;t generated server-side and.</description>
+      <description>&lt;h1 id=&#34;open-source-work-by-me&#34;&gt;Open Source work by me&lt;/h1&gt;
+&lt;p&gt;Mostly I contribute to the &lt;a href=&#34;https://termux.org&#34;&gt;Termux project&lt;/a&gt; both as a contributor and a maintainer reviewing PRs. For Termux, I maintain &lt;a href=&#34;https://nodejs.org&#34;&gt;Node.js&lt;/a&gt; and also help in updating critical libraries to which a lot of packages make use of. Although lately, I expect myself to work less here and more on personal projects which I&amp;rsquo;m planning to bring up.&lt;/p&gt;
+&lt;h2 id=&#34;cryptocurrencies&#34;&gt;Cryptocurrencies&lt;/h2&gt;
+
+
+
+  &lt;blockquote&gt;
+    &lt;p&gt;Note that these addresses aren&amp;rsquo;t generated server-side and. In case you want private addresses for payment mail me at &lt;a href=&#34;mailto:yakshbari4@gmail.com&#34;&gt;yakshbari4@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

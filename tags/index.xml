@@ -9,10 +9,59 @@
       <url>https://cd.is-a.dev/ogimage.jpg</url>
       <link>https://cd.is-a.dev/ogimage.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Mar 2024 20:15:00 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 23:35:00 +0530</lastBuildDate>
     <atom:link href="https://cd.is-a.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding</title>
+      <link>https://cd.is-a.dev/tags/coding/</link>
+      <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
+      <guid>https://cd.is-a.dev/tags/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Competitive Programming</title>
+      <link>https://cd.is-a.dev/tags/competitive-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cd.is-a.dev/tags/competitive-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hackslash</title>
+      <link>https://cd.is-a.dev/tags/hackslash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cd.is-a.dev/tags/hackslash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NIT Patna</title>
+      <link>https://cd.is-a.dev/tags/nit-patna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cd.is-a.dev/tags/nit-patna/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Problem Solving</title>
+      <link>https://cd.is-a.dev/tags/problem-solving/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cd.is-a.dev/tags/problem-solving/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>https://cd.is-a.dev/tags/programming/</link>
+      <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
+      <guid>https://cd.is-a.dev/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sigstp</title>
+      <link>https://cd.is-a.dev/tags/sigstp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cd.is-a.dev/tags/sigstp/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Blogging</title>
       <link>https://cd.is-a.dev/tags/blogging/</link>
@@ -49,13 +98,6 @@
       <description></description>
     </item>
     <item>
-      <title>Coding</title>
-      <link>https://cd.is-a.dev/tags/coding/</link>
-      <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
-      <guid>https://cd.is-a.dev/tags/coding/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Freecodecamp</title>
       <link>https://cd.is-a.dev/tags/freecodecamp/</link>
       <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
@@ -81,13 +123,6 @@
       <link>https://cd.is-a.dev/tags/music/</link>
       <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
       <guid>https://cd.is-a.dev/tags/music/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming</title>
-      <link>https://cd.is-a.dev/tags/programming/</link>
-      <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
-      <guid>https://cd.is-a.dev/tags/programming/</guid>
       <description></description>
     </item>
     <item>
