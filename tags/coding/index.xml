@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Coding on Yaksh Bariya</title>
-    <link>https://cd.is-a.dev/tags/coding/</link>
+    <link>https://thunders.website/tags/coding/</link>
     <description>Recent content in Coding on Yaksh Bariya</description>
     <image>
       <title>Yaksh Bariya</title>
-      <url>https://cd.is-a.dev/ogimage.jpg</url>
-      <link>https://cd.is-a.dev/ogimage.jpg</link>
+      <url>https://thunders.website/ogimage.jpg</url>
+      <link>https://thunders.website/ogimage.jpg</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 18 Mar 2025 23:50:00 +0530</lastBuildDate>
-    <atom:link href="https://cd.is-a.dev/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thunders.website/tags/coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Solution to HackSlash SigSTP: Trial of Cheaters Path problem</title>
-      <link>https://cd.is-a.dev/posts/hackslash-sigstp-solution-to-the-trial-of-cheaters-path/</link>
+      <link>https://thunders.website/posts/hackslash-sigstp-solution-to-the-trial-of-cheaters-path/</link>
       <pubDate>Tue, 18 Mar 2025 23:35:00 +0530</pubDate>
-      <guid>https://cd.is-a.dev/posts/hackslash-sigstp-solution-to-the-trial-of-cheaters-path/</guid>
+      <guid>https://thunders.website/posts/hackslash-sigstp-solution-to-the-trial-of-cheaters-path/</guid>
       <description>How I managed to solve all of the HackSlash&amp;#39; SigSTP Induction problems</description>
     </item>
     <item>
       <title>Streaming FreeCodeCamp&#39;s Coderadio using mpv</title>
-      <link>https://cd.is-a.dev/posts/streaming-freecodecamps-coderadio-using-mpv/</link>
+      <link>https://thunders.website/posts/streaming-freecodecamps-coderadio-using-mpv/</link>
       <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
-      <guid>https://cd.is-a.dev/posts/streaming-freecodecamps-coderadio-using-mpv/</guid>
+      <guid>https://thunders.website/posts/streaming-freecodecamps-coderadio-using-mpv/</guid>
       <description>Read how I managed to stream FreeCodeCamp&amp;#39;s Coderadio using mpv on the terminal</description>
     </item>
   </channel>

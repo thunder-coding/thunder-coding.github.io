@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cryptocurrency on Yaksh Bariya</title>
-    <link>https://cd.is-a.dev/tags/cryptocurrency/</link>
+    <link>https://thunders.website/tags/cryptocurrency/</link>
     <description>Recent content in Cryptocurrency on Yaksh Bariya</description>
     <image>
       <title>Yaksh Bariya</title>
-      <url>https://cd.is-a.dev/ogimage.jpg</url>
-      <link>https://cd.is-a.dev/ogimage.jpg</link>
+      <url>https://thunders.website/ogimage.jpg</url>
+      <link>https://thunders.website/ogimage.jpg</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 16 May 2022 16:00:00 +0530</lastBuildDate>
-    <atom:link href="https://cd.is-a.dev/tags/cryptocurrency/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thunders.website/tags/cryptocurrency/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Now you can sponsor me for my open source work using Bitcoin</title>
-      <link>https://cd.is-a.dev/posts/now-you-can-sponsor-me-for-my-open-source-work-using-bitcoin/</link>
+      <link>https://thunders.website/posts/now-you-can-sponsor-me-for-my-open-source-work-using-bitcoin/</link>
       <pubDate>Fri, 08 Apr 2022 22:00:00 +0530</pubDate>
-      <guid>https://cd.is-a.dev/posts/now-you-can-sponsor-me-for-my-open-source-work-using-bitcoin/</guid>
+      <guid>https://thunders.website/posts/now-you-can-sponsor-me-for-my-open-source-work-using-bitcoin/</guid>
       <description>Sponsor an open source contributor and maintainer to encourage them!</description>
     </item>
   </channel>

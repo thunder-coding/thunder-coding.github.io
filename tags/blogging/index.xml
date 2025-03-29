@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogging on Yaksh Bariya</title>
-    <link>https://cd.is-a.dev/tags/blogging/</link>
+    <link>https://thunders.website/tags/blogging/</link>
     <description>Recent content in Blogging on Yaksh Bariya</description>
     <image>
       <title>Yaksh Bariya</title>
-      <url>https://cd.is-a.dev/ogimage.jpg</url>
-      <link>https://cd.is-a.dev/ogimage.jpg</link>
+      <url>https://thunders.website/ogimage.jpg</url>
+      <link>https://thunders.website/ogimage.jpg</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 04 Mar 2024 20:15:00 +0530</lastBuildDate>
-    <atom:link href="https://cd.is-a.dev/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thunders.website/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I decide if your website is worth a revisit</title>
-      <link>https://cd.is-a.dev/posts/how-i-decide-if-your-website-is-worth-a-revisit/</link>
+      <link>https://thunders.website/posts/how-i-decide-if-your-website-is-worth-a-revisit/</link>
       <pubDate>Mon, 04 Mar 2024 20:15:00 +0530</pubDate>
-      <guid>https://cd.is-a.dev/posts/how-i-decide-if-your-website-is-worth-a-revisit/</guid>
+      <guid>https://thunders.website/posts/how-i-decide-if-your-website-is-worth-a-revisit/</guid>
       <description>In this new world full of SEO and AI crap, it is becoming difficult to find good content, even for hardcore techies like us. Here&amp;#39;s how I do and and I hope it helps you too.</description>
     </item>
     <item>
       <title>Announcing Open Sourcing of my blog site</title>
-      <link>https://cd.is-a.dev/posts/announcing-open-sourcing-of-my-blog/</link>
+      <link>https://thunders.website/posts/announcing-open-sourcing-of-my-blog/</link>
       <pubDate>Thu, 19 May 2022 10:00:00 +0530</pubDate>
-      <guid>https://cd.is-a.dev/posts/announcing-open-sourcing-of-my-blog/</guid>
+      <guid>https://thunders.website/posts/announcing-open-sourcing-of-my-blog/</guid>
       <description>Read how I just migrated my site from Next.js to Hugo &#43; PaperMod</description>
     </item>
     <item>
       <title>Hello World: Welcome to my blog</title>
-      <link>https://cd.is-a.dev/posts/hello-world/</link>
+      <link>https://thunders.website/posts/hello-world/</link>
       <pubDate>Mon, 04 Oct 2021 00:00:00 +0530</pubDate>
-      <guid>https://cd.is-a.dev/posts/hello-world/</guid>
+      <guid>https://thunders.website/posts/hello-world/</guid>
       <description>Read how I built my blog site</description>
     </item>
   </channel>
