@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thunders.website/tags/freebsd/</loc>
+    <lastmod>2025-04-06T19:45:00+05:30</lastmod>
+  </url><url>
+    <loc>https://thunders.website/posts/interesting-case-of-procfs-and-dev-on-posix-systems/</loc>
+    <lastmod>2025-04-06T19:45:00+05:30</lastmod>
+  </url><url>
+    <loc>https://thunders.website/tags/linux/</loc>
+    <lastmod>2025-04-06T19:45:00+05:30</lastmod>
+  </url><url>
+    <loc>https://thunders.website/tags/macos/</loc>
+    <lastmod>2025-04-06T19:45:00+05:30</lastmod>
+  </url><url>
+    <loc>https://thunders.website/tags/posix/</loc>
+    <lastmod>2025-04-06T19:45:00+05:30</lastmod>
+  </url><url>
+    <loc>https://thunders.website/tags/posix-standards/</loc>
+    <lastmod>2025-04-06T19:45:00+05:30</lastmod>
+  </url><url>
+    <loc>https://thunders.website/posts/</loc>
+    <lastmod>2025-04-06T19:45:00+05:30</lastmod>
+  </url><url>
+    <loc>https://thunders.website/tags/procfs/</loc>
+    <lastmod>2025-04-06T19:45:00+05:30</lastmod>
+  </url><url>
+    <loc>https://thunders.website/tags/</loc>
+    <lastmod>2025-04-06T19:45:00+05:30</lastmod>
+  </url><url>
+    <loc>https://thunders.website/tags/unix/</loc>
+    <lastmod>2025-04-06T19:45:00+05:30</lastmod>
+  </url><url>
+    <loc>https://thunders.website/</loc>
+    <lastmod>2025-04-06T19:45:00+05:30</lastmod>
+  </url><url>
     <loc>https://thunders.website/tags/coding/</loc>
     <lastmod>2025-03-18T23:50:00+05:30</lastmod>
   </url><url>
@@ -14,9 +47,6 @@
     <loc>https://thunders.website/tags/nit-patna/</loc>
     <lastmod>2025-03-18T23:50:00+05:30</lastmod>
   </url><url>
-    <loc>https://thunders.website/posts/</loc>
-    <lastmod>2025-03-18T23:50:00+05:30</lastmod>
-  </url><url>
     <loc>https://thunders.website/tags/problem-solving/</loc>
     <lastmod>2025-03-18T23:50:00+05:30</lastmod>
   </url><url>
@@ -27,12 +57,6 @@
     <lastmod>2025-03-18T23:50:00+05:30</lastmod>
   </url><url>
     <loc>https://thunders.website/posts/hackslash-sigstp-solution-to-the-trial-of-cheaters-path/</loc>
-    <lastmod>2025-03-18T23:50:00+05:30</lastmod>
-  </url><url>
-    <loc>https://thunders.website/tags/</loc>
-    <lastmod>2025-03-18T23:50:00+05:30</lastmod>
-  </url><url>
-    <loc>https://thunders.website/</loc>
     <lastmod>2025-03-18T23:50:00+05:30</lastmod>
   </url><url>
     <loc>https://thunders.website/tags/blogging/</loc>
@@ -54,9 +78,6 @@
     <lastmod>2022-09-19T12:30:00+05:30</lastmod>
   </url><url>
     <loc>https://thunders.website/tags/freecodecamp/</loc>
-    <lastmod>2022-09-19T12:30:00+05:30</lastmod>
-  </url><url>
-    <loc>https://thunders.website/tags/linux/</loc>
     <lastmod>2022-09-19T12:30:00+05:30</lastmod>
   </url><url>
     <loc>https://thunders.website/tags/mpv/</loc>

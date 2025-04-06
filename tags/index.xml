@@ -11,8 +11,57 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Mar 2025 23:50:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 19:45:00 +0530</lastBuildDate>
     <atom:link href="https://thunders.website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Freebsd</title>
+      <link>https://thunders.website/tags/freebsd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thunders.website/tags/freebsd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://thunders.website/tags/linux/</link>
+      <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
+      <guid>https://thunders.website/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Macos</title>
+      <link>https://thunders.website/tags/macos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thunders.website/tags/macos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Posix</title>
+      <link>https://thunders.website/tags/posix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thunders.website/tags/posix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Posix Standards</title>
+      <link>https://thunders.website/tags/posix-standards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thunders.website/tags/posix-standards/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Procfs</title>
+      <link>https://thunders.website/tags/procfs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thunders.website/tags/procfs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unix</title>
+      <link>https://thunders.website/tags/unix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thunders.website/tags/unix/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Coding</title>
       <link>https://thunders.website/tags/coding/</link>
@@ -102,13 +151,6 @@
       <link>https://thunders.website/tags/freecodecamp/</link>
       <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
       <guid>https://thunders.website/tags/freecodecamp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux</title>
-      <link>https://thunders.website/tags/linux/</link>
-      <pubDate>Mon, 19 Sep 2022 12:30:00 +0530</pubDate>
-      <guid>https://thunders.website/tags/linux/</guid>
       <description></description>
     </item>
     <item>

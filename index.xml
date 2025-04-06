@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Mar 2025 23:50:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 19:45:00 +0530</lastBuildDate>
     <atom:link href="https://thunders.website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interesting case of /proc and /dev on POSIX systems</title>
+      <link>https://thunders.website/posts/interesting-case-of-procfs-and-dev-on-posix-systems/</link>
+      <pubDate>Sun, 06 Apr 2025 19:45:00 +0530</pubDate>
+      <guid>https://thunders.website/posts/interesting-case-of-procfs-and-dev-on-posix-systems/</guid>
+      <description>Read how I learnt that reading the POSIX specifications is a good thing than relying solely on online blogs and articles about POSIX stuff</description>
+    </item>
     <item>
       <title>Solution to HackSlash SigSTP: Trial of Cheaters Path problem</title>
       <link>https://thunders.website/posts/hackslash-sigstp-solution-to-the-trial-of-cheaters-path/</link>
@@ -65,8 +72,7 @@
 &lt;h2 id=&#34;cryptocurrencies&#34;&gt;Cryptocurrencies&lt;/h2&gt;
 
 
-
-  &lt;blockquote&gt;
+  &lt;blockquote class=&#34;alert alert-type-none&#34;&gt;
     &lt;p&gt;Note that these addresses aren&amp;rsquo;t generated server-side and. In case you want private addresses for payment mail me at &lt;a href=&#34;mailto:yakshbari4@gmail.com&#34;&gt;yakshbari4@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

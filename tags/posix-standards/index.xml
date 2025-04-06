@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posix Standards on Yaksh Bariya</title>
+    <link>https://thunders.website/tags/posix-standards/</link>
+    <description>Recent content in Posix Standards on Yaksh Bariya</description>
+    <image>
+      <title>Yaksh Bariya</title>
+      <url>https://thunders.website/ogimage.jpg</url>
+      <link>https://thunders.website/ogimage.jpg</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Apr 2025 19:45:00 +0530</lastBuildDate>
+    <atom:link href="https://thunders.website/tags/posix-standards/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interesting case of /proc and /dev on POSIX systems</title>
+      <link>https://thunders.website/posts/interesting-case-of-procfs-and-dev-on-posix-systems/</link>
+      <pubDate>Sun, 06 Apr 2025 19:45:00 +0530</pubDate>
+      <guid>https://thunders.website/posts/interesting-case-of-procfs-and-dev-on-posix-systems/</guid>
+      <description>Read how I learnt that reading the POSIX specifications is a good thing than relying solely on online blogs and articles about POSIX stuff</description>
+    </item>
+  </channel>
+</rss>
