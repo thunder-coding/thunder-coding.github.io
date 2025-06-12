@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Security on Yaksh Bariya</title>
+    <link>https://thunders.website/tags/security/</link>
+    <description>Recent content in Security on Yaksh Bariya</description>
+    <image>
+      <title>Yaksh Bariya</title>
+      <url>https://thunders.website/ogimage.jpg</url>
+      <link>https://thunders.website/ogimage.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0530</lastBuildDate>
+    <atom:link href="https://thunders.website/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Update to my GPG keys</title>
+      <link>https://thunders.website/posts/2025-06-13-update-to-my-gpg-keys/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0530</pubDate>
+      <guid>https://thunders.website/posts/2025-06-13-update-to-my-gpg-keys/</guid>
+      <description>I have updated my GPG keys, please import the new keys and update your keyrings.</description>
+    </item>
+  </channel>
+</rss>

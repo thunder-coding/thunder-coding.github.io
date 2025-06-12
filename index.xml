@@ -9,10 +9,17 @@
       <url>https://thunders.website/ogimage.jpg</url>
       <link>https://thunders.website/ogimage.jpg</link>
     </image>
-    <generator>Hugo -- 0.146.4</generator>
+    <generator>Hugo -- 0.147.7</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Apr 2025 19:45:00 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0530</lastBuildDate>
     <atom:link href="https://thunders.website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Update to my GPG keys</title>
+      <link>https://thunders.website/posts/2025-06-13-update-to-my-gpg-keys/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0530</pubDate>
+      <guid>https://thunders.website/posts/2025-06-13-update-to-my-gpg-keys/</guid>
+      <description>I have updated my GPG keys, please import the new keys and update your keyrings.</description>
+    </item>
     <item>
       <title>Interesting case of /proc and /dev on POSIX systems</title>
       <link>https://thunders.website/posts/interesting-case-of-procfs-and-dev-on-posix-systems/</link>

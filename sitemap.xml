@@ -2,133 +2,197 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thunders.website/tags/gpg/</loc>
+    <lastmod>2025-06-13T00:00:00+05:30</lastmod>
+    <changefreq>always</changefreq>
+  </url><url>
+    <loc>https://thunders.website/tags/identity/</loc>
+    <lastmod>2025-06-13T00:00:00+05:30</lastmod>
+    <changefreq>always</changefreq>
+  </url><url>
+    <loc>https://thunders.website/tags/key/</loc>
+    <lastmod>2025-06-13T00:00:00+05:30</lastmod>
+    <changefreq>always</changefreq>
+  </url><url>
+    <loc>https://thunders.website/posts/</loc>
+    <lastmod>2025-06-13T00:00:00+05:30</lastmod>
+    <changefreq>always</changefreq>
+  </url><url>
+    <loc>https://thunders.website/tags/security/</loc>
+    <lastmod>2025-06-13T00:00:00+05:30</lastmod>
+    <changefreq>always</changefreq>
+  </url><url>
+    <loc>https://thunders.website/tags/</loc>
+    <lastmod>2025-06-13T00:00:00+05:30</lastmod>
+    <changefreq>always</changefreq>
+  </url><url>
+    <loc>https://thunders.website/posts/2025-06-13-update-to-my-gpg-keys/</loc>
+    <lastmod>2025-06-13T00:00:00+05:30</lastmod>
+    <changefreq>always</changefreq>
+  </url><url>
+    <loc>https://thunders.website/</loc>
+    <lastmod>2025-06-13T00:00:00+05:30</lastmod>
+    <changefreq>always</changefreq>
+  </url><url>
     <loc>https://thunders.website/tags/freebsd/</loc>
     <lastmod>2025-04-06T19:45:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/posts/interesting-case-of-procfs-and-dev-on-posix-systems/</loc>
     <lastmod>2025-04-06T19:45:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/linux/</loc>
     <lastmod>2025-04-06T19:45:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/macos/</loc>
     <lastmod>2025-04-06T19:45:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/posix/</loc>
     <lastmod>2025-04-06T19:45:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/posix-standards/</loc>
     <lastmod>2025-04-06T19:45:00+05:30</lastmod>
-  </url><url>
-    <loc>https://thunders.website/posts/</loc>
-    <lastmod>2025-04-06T19:45:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/procfs/</loc>
     <lastmod>2025-04-06T19:45:00+05:30</lastmod>
-  </url><url>
-    <loc>https://thunders.website/tags/</loc>
-    <lastmod>2025-04-06T19:45:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/unix/</loc>
     <lastmod>2025-04-06T19:45:00+05:30</lastmod>
-  </url><url>
-    <loc>https://thunders.website/</loc>
-    <lastmod>2025-04-06T19:45:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/coding/</loc>
     <lastmod>2025-03-18T23:50:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/competitive-programming/</loc>
     <lastmod>2025-03-18T23:50:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/hackslash/</loc>
     <lastmod>2025-03-18T23:50:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/nit-patna/</loc>
     <lastmod>2025-03-18T23:50:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/problem-solving/</loc>
     <lastmod>2025-03-18T23:50:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/programming/</loc>
     <lastmod>2025-03-18T23:50:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/sigstp/</loc>
     <lastmod>2025-03-18T23:50:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/posts/hackslash-sigstp-solution-to-the-trial-of-cheaters-path/</loc>
     <lastmod>2025-03-18T23:50:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/blogging/</loc>
     <lastmod>2024-03-04T20:15:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/hacker-news/</loc>
     <lastmod>2024-03-04T20:15:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/posts/how-i-decide-if-your-website-is-worth-a-revisit/</loc>
     <lastmod>2024-03-04T20:15:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/seo/</loc>
     <lastmod>2024-03-04T20:15:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/website/</loc>
     <lastmod>2024-03-04T20:15:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/coderadio/</loc>
     <lastmod>2022-09-19T12:30:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/freecodecamp/</loc>
     <lastmod>2022-09-19T12:30:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/mpv/</loc>
     <lastmod>2022-09-19T12:30:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/music/</loc>
     <lastmod>2022-09-19T12:30:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/posts/streaming-freecodecamps-coderadio-using-mpv/</loc>
     <lastmod>2022-09-19T12:30:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/terminal/</loc>
     <lastmod>2022-09-19T12:30:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/posts/announcing-open-sourcing-of-my-blog/</loc>
     <lastmod>2022-05-19T10:00:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/hugo/</loc>
     <lastmod>2022-05-19T10:00:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/open-source/</loc>
     <lastmod>2022-05-19T10:00:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/bitcoin/</loc>
     <lastmod>2022-05-16T16:00:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/cryptocurrency/</loc>
     <lastmod>2022-05-16T16:00:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/posts/now-you-can-sponsor-me-for-my-open-source-work-using-bitcoin/</loc>
     <lastmod>2022-05-16T16:00:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/sponsor/</loc>
     <lastmod>2022-05-16T16:00:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/developer/</loc>
     <lastmod>2022-05-16T16:00:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/developer-blog/</loc>
     <lastmod>2022-05-16T16:00:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/tags/hello-world/</loc>
     <lastmod>2022-05-16T16:00:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/posts/hello-world/</loc>
     <lastmod>2022-05-16T16:00:00+05:30</lastmod>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/categories/</loc>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/search/</loc>
+    <changefreq>always</changefreq>
   </url><url>
     <loc>https://thunders.website/sponsor/</loc>
+    <changefreq>always</changefreq>
   </url>
 </urlset>
